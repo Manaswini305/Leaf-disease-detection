@@ -1,0 +1,12 @@
+streamlit
+sqlite3
+tensorflow
+keras
+numpy
+opencv-python
+requests
+geopy
+folium
+streamlit-folium
+deep-translator
+flask
